@@ -1,0 +1,19 @@
+{
+  "events": [
+    {
+      "title": "Go shopping after work",
+      "date": "2020-06-01T00:00:00.000Z",
+      "id": "4cd3f0c8-3eb7-44af-bbee-4674ac9b7903"
+    },
+    {
+      "title": "Cook dinner",
+      "date": "2020-07-01T00:00:00.000Z",
+      "id": "e64f8923-ced6-4ae9-9920-e27ad2c52cfa"
+    },
+    {
+      "title": "Watch the latest news",
+      "date": "2020-08-01T00:00:00.000Z",
+      "id": "79656715-6e9a-4d1b-9d99-0ff9c8e5721e"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "jsonmockserver",
+  "version": "1.0.0",
+  "description": "This is a Json mock server for testing purpose only",
+  "main": "index.js",
+  "scripts": {
+    "start-json-server": "json-server --watch db.json"
+  },
+  "author": "Yuanle Cai",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
+}
